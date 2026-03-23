@@ -1,2 +1,3 @@
 # Exposicion6
-Este es el archivo README de la rama main. Deberá ser editado de cualquier manera antes de intentar subir los cambios. La fecha de hoy es 23/03/2026.
+Mi nombre es Julián Andrés Hernández Ortega.
+El día de hoy es 23/03/2026.

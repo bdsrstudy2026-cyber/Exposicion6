@@ -5,13 +5,17 @@
 import javax.swing.*;
 /**
  *
- * @author INGRESE SU NOMBRE
+ * @author Juan Diego Diaz Navas
+   * @author Brayan Dario Sierra Ramires
+    * @author David Steven Castro Garavito
  */
 public class Actividad {
     public static void main(String args[])
     {
-        String nombre = //COMPLETAR, HACER QUE EL USUARIO INGRESE SU NOMBRE
-        int edad = //COMPLETAR, HACER QUE EL USUARIO INGRESE SU EDAD
+        String nombre;
+        int edad;
+        nombre=JOptionPane.showInputDialog("Enter your name:");
+        edad=Integer.parseInt(JOptionPane.showInputDialog("how old are you?"));
         String texto = "Hola, mi nombre es " + nombre + ", tengo " + edad + " años, y esta es la actividad de la exposición 6.";
         JOptionPane.showMessageDialog(null, texto);
     }

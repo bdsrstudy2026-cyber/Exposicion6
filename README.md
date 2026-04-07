@@ -1,3 +1,3 @@
 # Exposicion6
-Mi nombre es Julián Andrés Hernández Ortega.
-El día de hoy es 23/03/2026.
+Nuestros nombres son Brayan Darío Sierra Ramirez, David Steven Castro Garavito y Juan Diego Díaz Navas.
+El día de hoy es 07/04/2026.
